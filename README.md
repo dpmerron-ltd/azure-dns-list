@@ -3,7 +3,7 @@ A quickly written Bash function to list List all Azure DNS records &amp;&amp; se
 
 To use this, clone this reposotirory and add the following to your ~/.bashrc or ~/.zshrc with
 
-echo "source $(pwd)/azure-dns-list/azure-dns.sh" >> ~/.zshrc
+echo "source $(pwd)/azure-dns-list/azure_dns.sh" >> ~/.zshrc
 
 ## Usage:
 
