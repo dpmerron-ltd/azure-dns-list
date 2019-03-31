@@ -11,6 +11,9 @@ To search all Azure DNS zones for all records use:
 
 `dns`
 
+![alt text](https://imgur.com/a/fNilrX1)
+
+
 To search for a specific DNS zone use:
 
 `dns <your zone name>`
