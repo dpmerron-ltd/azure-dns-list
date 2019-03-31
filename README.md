@@ -1,7 +1,7 @@
 # Azure DNS List for Bash
-A quickly written Bash function to list List all Azure DNS records &amp;&amp; search from your terminal. 
+A quickly written Bash function to list all Azure DNS records &amp;&amp; search from your terminal. 
 
-To use this, clone this reposotirory and add the following to your ~/.bashrc or ~/.zshrc with
+To use clone this reposotirory and add the following to your ~/.bashrc or ~/.zshrc with
 
 echo "source $(pwd)/azure-dns-list/azure_dns.sh" >> ~/.zshrc
 
@@ -18,4 +18,6 @@ To search for a specific DNS zone use:
 To filter results use:
 
 `dnsgrep <your search (without spaces>`
+
+### Feel free to send improvements or make comments :D
 
