@@ -5,7 +5,7 @@ To use this, clone this reposotirory and add the following to your ~/.bashrc or 
 
 echo "soruce $(pwd)/azure-dns-list/azure-dns.sh" >> ~/.zshrc
 
-Usage:
+## Usage:
 
 To search all Azure DNS zones for all records use:
 
